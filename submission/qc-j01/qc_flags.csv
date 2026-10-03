@@ -1,0 +1,7 @@
+track_id,frame,error,detail
+0,50,dimension_drift,L: 4.49..5.87 m (23.5% > 5%)
+0,50,dimension_drift,W: 1.49..2.43 m (38.7% > 5%)
+0,2,dimension_drift,H: 1.78..2.40 m (25.8% > 5%)
+0,2,fragmentation_suspect,ID xuat hien giua sequence o 47 m (khong phai frame dau)
+0,55,fragmentation_suspect,ID ket thuc giua sequence o 36 m
+0,2,no_interpolation,54/54 frame la keyframe — co the dang ve tay tung frame
